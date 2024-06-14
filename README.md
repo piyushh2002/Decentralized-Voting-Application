@@ -1,4 +1,4 @@
-Decentralized Voting Application
+Decentralized Voting Application - 
 
 Welcome to the Decentralized Voting Application! This project demonstrates how to implement voting using Solidity smart contracts and ReactJS. By leveraging blockchain technology, we ensure transparency, security, and immutability in the voting process.
 
